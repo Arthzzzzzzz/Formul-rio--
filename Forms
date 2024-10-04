@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>FORMULÁRIO</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<header>
+    <h1><b>Formulário de Inscrição</b></h1>
+</header>
+<body>
+
+    <b>Preencha seus dados
+    </b>
+
+    <form>
+        <p></p>
+        <label><b>Nome: </b></label><input type="text">
+        <p></p>
+        <label><b>E-mail: </b></label><input type="email">
+        <p></p>
+        <label><b>Endereço: </b></label><input type="text">
+        <p></p>
+        <label><b>Cidade: </b></label><input type="text">
+        <p></p>
+        <label><b>Telefone: </b></label><input type="tel">
+        <p></p>
+        <label><b>Usuário: </b></label><input type="text">
+        <p></p>
+        <label><b>Senha: </b></label><input type="text">
+        <p></p>
+        <button>Finalize minha inscrição</button>
+
+    </form>
+    
+</body>
+</html>
